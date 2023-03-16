@@ -8,6 +8,7 @@ public class testcode {
 	public void display() {
 		System.out.println("Inside display");
 		System.out.println("hey........");
+		System.out.println("Test");
 	}
 }
 //http://myJenkins:8080/
