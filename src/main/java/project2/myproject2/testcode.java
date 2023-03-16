@@ -12,3 +12,5 @@ public class testcode {
 }
 //http://myJenkins:8080/
 //http://localhost:8080/ 
+
+//cmVmdGtuOjAxOjE3MTA0NzAwNzA6Wk5xaEZsdDVQSmdrNWk2Mmw3WEVmZTZyaW5H
